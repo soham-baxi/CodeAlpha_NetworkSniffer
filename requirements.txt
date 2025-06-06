@@ -1,0 +1,6 @@
+scapy
+#Use this to install dependencies with:
+pip install -r requirements.txt
+#or use this:-
+pip install scapy
+
